@@ -39,7 +39,7 @@ require(MASS)
 mydir <- "H:/euro2016"
 
 
-source(file.path(mydir, "preprocess.R"))
+source(file.path(mydir, "preprocess.R")) # comment here
 
 # ---------------------------
 # Aggregate data by dateTime
